@@ -1,0 +1,9 @@
+# AdMob App Verification
+# Bu dosya GitHub Pages'te yayınlanacak
+# URL: https://YOUR_USERNAME.github.io/TemizlikciPlatformu/app-ads.txt
+
+# AdMob Publisher ID'nizi buraya ekleyin
+# Format: google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+# Örnek: google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0
+
+# Publisher ID'nizi aldıktan sonra yukarıdaki satırı güncelleyin
